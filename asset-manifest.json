@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dntmdwls42/reacttest.git/static/css/main.a5b99e94.css",
+    "main.js": "/dntmdwls42/reacttest.git/static/js/main.0f27d78f.js",
+    "static/js/787.924567e0.chunk.js": "/dntmdwls42/reacttest.git/static/js/787.924567e0.chunk.js",
+    "index.html": "/dntmdwls42/reacttest.git/index.html",
+    "main.a5b99e94.css.map": "/dntmdwls42/reacttest.git/static/css/main.a5b99e94.css.map",
+    "main.0f27d78f.js.map": "/dntmdwls42/reacttest.git/static/js/main.0f27d78f.js.map",
+    "787.924567e0.chunk.js.map": "/dntmdwls42/reacttest.git/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b99e94.css",
+    "static/js/main.0f27d78f.js"
+  ]
+}
